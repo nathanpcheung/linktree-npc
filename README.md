@@ -26,7 +26,7 @@ To deploy the website, simply upload the files to your web hosting provider. Or 
 
 To customize the website for your own use, simply edit the HTML and CSS file. Remember to include your own image, name, personal details and social media links. Moreover, you can change the color scheme, font style, and include additional elements.
 
-## Contribution
+## Source
 Fork from: https://github.com/rakeshid03/about-me
 
 
