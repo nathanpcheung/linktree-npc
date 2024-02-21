@@ -23,7 +23,7 @@ To deploy the website, simply upload the files to your web hosting provider. Or 
 9. Start using published link
 10. Setup Cloudflare Pages to use with my own Domain
 
-## Customization
+## Customization For this Template
 
 To customize the website for your own use, simply edit the HTML and CSS file. Remember to include your own image, name, personal details and social media links. Moreover, you can change the color scheme, font style, and include additional elements.
 
