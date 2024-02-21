@@ -18,8 +18,8 @@ To deploy the website, simply upload the files to your web hosting provider. Or 
 2. Create dublicate of the original branch called original
 3. Go to Settings, Pages and select main as Github Pages source
 4. Publish Page
-5. Replace the dummy data with mine
-8. Review coding for tracking and other dummy data with min
+5. Replace the dummy data with mine (See below edits for this repository)
+8. Review coding for tracking and other files with mine.
 9. Start using published link
 10. Setup Cloudflare Pages to use with my own Domain
 
