@@ -14,13 +14,14 @@ You can see the live website by clicking [`here`](https://nathanpcheung.com)
 
 To deploy the website, simply upload the files to your web hosting provider. Or you can also use a service like GitHub Pages to host the website for free.
 
-1. Create a New Reposisitoy or Create a new Repository from a Fork.
-2. Go to Settings, Pages
-3. Publish Page
-4. Review Pages & Assets
-5. Review any Tracking from prior owner and replace
-6. Replace the information to my information I want to display
-7. Start using published link
+1. Create a new repository from a Forks repository.
+2. Create dublicate of the original branch called original
+3. Go to Settings, Pages and select main as Github Pages source
+4. Publish Page
+5. Replace the dummy data with mine
+8. Review coding for tracking and other dummy data with min
+9. Start using published link
+10. Setup Cloudflare Pages
 
 ## Customization
 
