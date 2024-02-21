@@ -21,7 +21,7 @@ To deploy the website, simply upload the files to your web hosting provider. Or 
 5. Replace the dummy data with mine
 8. Review coding for tracking and other dummy data with min
 9. Start using published link
-10. Setup Cloudflare Pages
+10. Setup Cloudflare Pages to use with my own Domain
 
 ## Customization
 
