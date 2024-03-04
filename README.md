@@ -30,5 +30,8 @@ To customize the website for your own use, simply edit the HTML and CSS file. Re
 ## Source
 Fork from: https://github.com/rakeshid03/about-me
 
-
+- Jekyll: https://jekyllrb.com
+- GitHub Pages: https://docs.github.com/en/pages
+- jekyll-default-layout: https://github.com/benbalter/jekyll-default-layout
+- jekyll-seo-tag: https://jekyll.github.io/jekyll-seo-tag
 
