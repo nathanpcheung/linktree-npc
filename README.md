@@ -4,7 +4,7 @@ This is a one-page personal about me website built using HTML, CSS, and JavaScri
 
 ## Website
 
-You can see the live website by clicking [`here`](nathanpcheung.com)
+You can see the live website by clicking [`here`](https://www.nathanpcheung.com)
 
 ## Deployment
 
