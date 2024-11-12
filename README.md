@@ -6,11 +6,9 @@ Goal is to create a one page Link Managmnet Page that is hosted free and can sho
 - https://linktr.ee/
 - https://github.com/LinkStackOrg/LinkStack
 
-## Website
-
 You can see the live website by clicking [`here`](https://nathanpcheung.com)
 
-## Deployment
+## Github Deployment
 
 To deploy the website, simply upload the files to your web hosting provider. Or you can also use a service like GitHub Pages to host the website for free.
 
@@ -29,7 +27,6 @@ To customize the website for your own use, simply edit the HTML and CSS file. Re
 
 ## Source
 Fork from: https://github.com/rakeshid03/about-me
-
 - Jekyll: https://jekyllrb.com
 - GitHub Pages: https://docs.github.com/en/pages
 - jekyll-default-layout: https://github.com/benbalter/jekyll-default-layout
